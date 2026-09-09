@@ -1,0 +1,6 @@
+{
+  "name": "E-Rekap PAI & Prestasi SMPN 8 Salatiga",
+  "description": "Portal Capaian Siswa PAI & Budi Pekerti serta Rekap Buku Prestasi SMP Negeri 8 Salatiga",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
